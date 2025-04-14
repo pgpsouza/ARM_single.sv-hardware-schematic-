@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on Keep a Changelog and this project adheres to Semantic Versioning.
 
+### [0.0.4.0] - 2025-04-14
+#### Added
+- regfile logic
+
 ### [0.0.3.0] - 2025-04-13
 #### Added
 - next PC logic
